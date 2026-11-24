@@ -1,0 +1,5 @@
+# Top 10 Window Companies Vancouver - Vancouver window companies comparison
+User-agent: *
+Allow: /
+
+Sitemap: https://www.topwindowcompaniesvancouver.ca/sitemap.xml
